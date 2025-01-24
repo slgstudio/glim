@@ -1,5 +1,5 @@
 # Glim
-Kindle JS interpreter
+Kindle JS code runner
 
 ## Go to slgstudio.github.io/glim
 
